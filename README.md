@@ -26,25 +26,6 @@ Output:
 }
 
 
-🗂 Project Layout
-ai-compliance-checker/
-│── README.md
-│── requirements.txt
-│── src/
-│    ├── compliance_rules.py
-│    ├── nlp_pipeline.py
-│    └── checker.py
-│── data/
-│    ├── sample_contract.txt
-│    └── flagged_output.json
-│── notebooks/
-│    └── experiments.ipynb
-│── assets/
-│    └── screenshots/
-│── tests/
-│    └── test_checker.py
-
-
 📊 Tech Stack
 
 Python
