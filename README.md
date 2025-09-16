@@ -47,7 +47,7 @@ Testing: pytest
  
 ---
 
-## ⚙️ Step 4: `requirements.txt`
+## requirements
 spacy
 regex
 pandas
